@@ -119,4 +119,4 @@ Developed by [vinith kabilar] as part of Django learning & portfolio building.
 ![Product Page](screenshots/product.png)
 
 ### Categoires page
-![Categoires](screenshots/Categoires.png)
+![Categoires page](screenshots/categoires.png)
